@@ -1,0 +1,110 @@
+Algorithm
+Task 1:
+1: Ask the user to enter a number and a nth number
+2:Set divisor to(True )if nth number mod n number = 0
+3:If divisor =True ,set answer(nth number mod 2)
+4:if answer is equal to 0 ,set(nth number = even)
+5:if answer is not equal to 0,set(nth number =odd) 
+
+
+Task  : 3
+1: Ask the user to enter two numbers
+2: Ask the user to enter operator
+3: Set answer to (Number1 + Number 2)if operator = “+”
+4: Set answer to (Number1 - Number 2)if operator = “-”
+5: Set answer to (Number1 * Number 2)if operator = “*”
+6: Set answer to (Number1 / Number 2)if operator = “/”
+7:Display answer for the user
+
+
+Algorithm
+Task 1:
+1: Ask the user to enter a number and a nth number
+2:Set divisor to(True )if nth number mod n number = 0
+3:If divisor =True ,set answer(nth number mod 2)
+4:if answer is equal to 0 ,set(nth number = even)
+5:if answer is not equal to 0,set(nth number =odd) 
+
+
+Task  : 3
+1: Ask the user to enter two numbers
+2: Ask the user to enter operator
+3: Set answer to (Number1 + Number 2)if operator = “+”
+4: Set answer to (Number1 - Number 2)if operator = “-”
+5: Set answer to (Number1 * Number 2)if operator = “*”
+6: Set answer to (Number1 / Number 2)if operator = “/”
+7:Display answer for the user
+
+
+Algorithm
+Task 1:
+1: Ask the user to enter a number and a nth number
+2:Set divisor to(True )if nth number mod n number = 0
+3:If divisor =True ,set answer(nth number mod 2)
+4:if answer is equal to 0 ,set(nth number = even)
+5:if answer is not equal to 0,set(nth number =odd) 
+
+
+Task  : 3
+1: Ask the user to enter two numbers
+2: Ask the user to enter operator
+3: Set answer to (Number1 + Number 2)if operator = “+”
+4: Set answer to (Number1 - Number 2)if operator = “-”
+5: Set answer to (Number1 * Number 2)if operator = “*”
+6: Set answer to (Number1 / Number 2)if operator = “/”
+7:Display answer for the user
+
+
+
+
+PSEUDOCODE
+Task 2:
+1: START
+
+2://INPUT/OUTPUT
+
+3:Input number1 
+4:Input number2
+5:Input number3
+
+6://VARIABLES/INITIALIZATION
+7:SET Sum = 0
+
+8: //PROCESS STEPS
+9:SET Sum = number1 - - number2 - - number3
+
+10: PRINT,Sum
+11: END
+
+
+
+
+
+Task3:
+
+1:START
+
+2://Input/Output
+
+3:Input number1 
+4:Input number2
+5:Input operator
+
+6://Variables and Initialization
+
+7:SET Answer to 0
+
+8://Conditional Statement
+
+9:IF operator = “+” THEN
+10:     Answer = Number1 + Number2
+11:ELSE if operator = “-“ THEN
+12:    Answer = Number1 – Number2
+13:ELSE
+14:   PRINT”Wrong input operator”
+15:PRINT,Answer
+16: END 
+
+
+
+
